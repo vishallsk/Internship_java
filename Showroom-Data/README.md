@@ -4,23 +4,26 @@ The Bike Showroom Management System is a project designed to streamline the oper
 
 ##Features
 
-Customer Management: Allows storing and managing customer details.
-Bike Inventory Management: Manages bike details, availability, and pricing.
+*Customer Management*: Allows storing and managing customer details.
 
-Sales Transactions: Tracks sales activities, invoices, and associated records.
+*Bike Inventory Management*: Manages bike details, availability, and pricing.
 
-Reporting and Analytics: Generates reports for sales and inventory insights.
+*Sales Transactions*: Tracks sales activities, invoices, and associated records.
 
-User Role Management: Supports roles such as Admin and Sales Executive to secure operations.
+*Reporting and Analytics*: Generates reports for sales and inventory insights.
+
+*User Role Management*: Supports roles such as Admin and Sales Executive to secure operations.
 
 ##Technologies Used
 
-Java: The programming language for implementing the core logic.
-Spring Framework: For building robust backend services.
+*Java*: The programming language for implementing the core logic.
 
-MySQL: A relational database to store and manage data efficiently.
-JPA (Jakarta Persistence API): For ORM and database interactions.
+*Spring Framework*: For building robust backend services.
 
-Postman: For testing and interacting with APIs.
+*MySQL*: A relational database to store and manage data efficiently.
 
-Maven: Dependency and project management.
+*JPA (Jakarta Persistence API)*: For ORM and database interactions.
+
+*Postman*: For testing and interacting with APIs.
+
+*Maven*: Dependency and project management.
